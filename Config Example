@@ -1,0 +1,21 @@
+is_enabled: true
+debug: false
+
+groups:
+  - name: 'Group1'
+    tag: 'Engineer'
+    color: 'red'
+    steam_ids:
+      - '76561199481494871'
+    items:
+      - 'KeycardContainmentEngineer'
+      - 'Medkit'
+
+blacklisted_roles:
+  - 'Scp049'
+  - 'Scp079'
+  - 'Scp096'
+  - 'Scp106'
+  - 'Scp173'
+  - 'Scp939'
+  - 'Scp3114'
