@@ -1,8 +1,8 @@
 [README на русском](README.ru.md)
 
-# RoundStart_ItemGiver  
+# RoundStart_ItemGiver
 
-**RoundStart_ItemGiver** is a plugin for [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory) using the EXILED framework. This plugin allows server administrators to automatically assign specific items to players at the start of each round based on their Steam IDs, while providing customization options for group tags and colors.
+**RoundStart_ItemGiver** is a plugin for [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory) using the [EXILED](https://github.com/Exiled-Team/EXILED) framework. This plugin allows server administrators to automatically assign specific items to players at the start of each round based on their Steam IDs, while providing customization options for group tags and colors.
 
 ## 🎉 Features
 
