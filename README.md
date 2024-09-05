@@ -48,10 +48,6 @@ Refer to the [example configuration](https://github.com/D3ltA-O5/SCP-SL-RoundSta
 
 For any questions, issues, or suggestions, please open an issue on the [GitHub repository](https://github.com/D3ltA-O5/SCP-SL-RoundStart_ItemGiver) or DM me in discord my ds: cyberco.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Thank you for using **RoundStart_ItemGiver**! Enjoy customizing your SCP: SL server!
